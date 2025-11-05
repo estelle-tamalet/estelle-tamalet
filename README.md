@@ -1,6 +1,22 @@
 # 👋 Hello, I'm Estelle!
 
-I'm an apprentice software developer, currently pursuing my forth year of engineering studies in software development and operational IT.
+> *Software & DevOps Engineer Apprentice @ Capgemini Financial Services (Montpellier, France)*  
+> *4th-year Engineering Student at Polytech Montpellier — DevOps specialization*
+
+## 🧰 Tech Toolbox
+
+**Programming Languages:** C++ · Java · Python · Rust · TypeScript · JavaScript · Bash · SQL  
+
+**DevOps & Cloud:** Docker · GitLab CI/CD · Kubernetes (k3s/kind) · Ansible · AWS · Argo CD · Helm 
+
+**Backend:** Java / Spring Boot · Node / NestJS · Go  
+
+**Frontend:** Angular · React / Vite  
+
+**Databases & Storage:** PostgreSQL · MongoDB · MinIO  
+
+**Automation & Observability:** Prometheus · Grafana 
+
 
 ## 📫 Contact Me
 
