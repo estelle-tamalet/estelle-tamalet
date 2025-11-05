@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Estelle!
 
-I'm an apprentice software developer, currently pursuing my third year of engineering studies in software development and operational IT.
+I'm an apprentice software developer, currently pursuing my forth year of engineering studies in software development and operational IT.
 
 ## 📫 Contact Me
 
